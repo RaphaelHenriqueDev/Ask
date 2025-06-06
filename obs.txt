@@ -1,0 +1,3 @@
+partials mudada
+
+<%- include('partials/header.ejs');%>
